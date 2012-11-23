@@ -1,0 +1,10 @@
+{ 
+ "name": "forma", 
+ "sections": [
+              {"section":"intro"},
+              {"section":"idn-animation"}, 
+              {"section":"regional"},
+              {"section":"kali-animation"},
+              {"section":"trends"}
+              ]
+ }
