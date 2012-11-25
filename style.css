@@ -46,6 +46,20 @@ body.fullScreen {
     HEIGHT:600px;
 }
 
+.phys-borneo img {
+    position:absolute;
+    top:20px;
+    left:-40px;
+    WIDTH:1100px; 
+    HEIGHT:700px;
+}
+
+.phys-zoom img {
+    position:center;
+    WIDTH:900px; 
+    HEIGHT:600px;
+}
+
 .light-on-dark h1,
 .light-on-dark h3 {
     position: absolute;
