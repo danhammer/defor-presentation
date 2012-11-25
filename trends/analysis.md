@@ -26,6 +26,14 @@
 
 ![warped-diff](warped-diff.png)
 
+!SLIDE trend-graph
+
+![warped-diff-only](warped-diff-only.png)
+
+!SLIDE trend-graph
+
+![dp](diff-price.png)
+
 !SLIDE phys-borneo
 
 ![elev](elev.png)
