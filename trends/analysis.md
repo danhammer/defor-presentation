@@ -34,20 +34,26 @@
 
 ![dp](diff-price.png)
 
-!SLIDE phys-borneo
+!SLIDE trend-graph
 
-![elev](elev.png)
+![dpe](diff-price-exch.png)
 
-!SLIDE phys-borneo
+!SLIDE trend-graph
 
-![slope](slope.png)
+![de](diff-exch.png)
 
-!SLIDE phys-borneo
+!SLIDE trend-graph
 
-![flow](flow.png)
+![scatter-diff](scatter-diff.png)
 
-!SLIDE phys-zoom
+!SLIDE trend-graph
 
-![hillshade](shade.png)
+![new-scatter](new-scatter-diff.png)
 
+!SLIDE trend-graph
 
+![hyp-diff](hyp-diff.png)
+
+!SLIDE trend-graph
+
+![hyp-diff-line](hyp-diff-line.png)
